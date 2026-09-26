@@ -1,0 +1,7 @@
+{
+  //daftar rekomendasi ekstensi VS Code untuk proyek
+  "recommendations": [
+    "Vue.volar",
+    "esbenp.prettier-vscode"
+  ]
+}

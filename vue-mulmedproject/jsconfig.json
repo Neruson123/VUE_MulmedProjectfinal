@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"] //// Map the '@' shortcut prefix directly to the 'src' directory
+    }
+  },
+  "exclude": ["node_modules", "dist"] // Ignore dependency and build folders during code indexing
+}

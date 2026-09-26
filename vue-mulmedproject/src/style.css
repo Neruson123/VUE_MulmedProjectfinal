@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom: Forces native browser elements (scrollbar, forms) to render in dark mode when active */
+html.dark {
+  color-scheme: dark;
+}
+
